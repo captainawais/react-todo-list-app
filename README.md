@@ -1,4 +1,3 @@
-````md
 # ⚡ Smart Daily Planner
 
 <div align="center">
@@ -305,4 +304,3 @@ Powered by **TechFactOfficial**
 # 📜 License
 
 This project is created for educational and internship learning purposes.
-````
